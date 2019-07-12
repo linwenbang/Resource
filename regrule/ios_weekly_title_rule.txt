@@ -1,4 +1,5 @@
 [
     "article-title.+>(.+)</h1>",
-    "<title.*>(.+)</title>"
+    "<title.*>(.+)</title>",
+    "msg_title = \"(.+)\""
 ]
