@@ -44,7 +44,8 @@
     "Damonvvong": {
         "mark": "Damonvvong",
         "weibo": "https://weibo.com/damonone",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "isMainEditor": "true"
     },
     "raozhizhen": {
         "mark": "Aiden Rao",
@@ -54,7 +55,8 @@
     "ParsifalC": {
         "mark": "ParsifalC",
         "weibo": "https://weibo.com/parsifalchang",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "isMainEditor": "true"
     },
     "aaaron7": {
         "mark": "莲叔",
@@ -96,7 +98,8 @@
         "weibo": "https://weibo.com/linwenbang",
         "webisite": "linwenbang.github.io",
         "info": "菜鸡1号",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "isMainEditor": "true"
     },
     "ChinaFishNews": {
         "mark": "含笑饮砒霜",
