@@ -1,77 +1,146 @@
 {
+    "lacklock": {
+        "mark": "没故事的卓同学",
+        "weibo": "https://weibo.com/u/1926303682"
+    },
+    "mmoaay": {
+        "mark": "mmoaay",
+        "weibo": "https://weibo.com/smmoaay"
+    },
+    "EyreFree": {
+        "mark": "EyreFree",
+        "weibo": "https://weibo.com/eyrefree777"
+    },
+    "Awhisper": {
+        "mark": "味精",
+        "weibo": "https://weibo.com/agvicking"
+    },
+    "100mango": {
+        "mark": "方秋枋",
+        "weibo": "https://weibo.com/100mango"
+    },
+    "tom510230": {
+        "mark": "Tom叔",
+        "weibo": "https://xiaozhuanlan.com/u/6682065345"
+    },
+    "zangqilong198812": {
+        "mark": "叶孤城",
+        "weibo": "https://weibo.com/u/1438670852"
+    },
+    "yxztj": {
+        "mark": "Jason Yu",
+        "weibo": "https://weibo.com/jasonyuh"
+    },
+    "iblacksun": {
+        "mark": "iblacksun",
+        "weibo": "https://weibo.com/iblacksun",
+        "isCurrentEditor": "true"
+    },
+    "kemchenj": {
+        "mark": "四娘",
+        "weibo": "https://twitter.com/kemchenj",
+        "isCurrentEditor": "true"
+    },
+    "Damonvvong": {
+        "mark": "Damonvvong",
+        "weibo": "https://weibo.com/damonone",
+        "isCurrentEditor": "true"
+    },
+    "raozhizhen": {
+        "mark": "Aiden Rao",
+        "weibo": "https://weibo.com/AidenRao",
+        "isCurrentEditor": "true"
+    },
+    "ParsifalC": {
+        "mark": "ParsifalC",
+        "weibo": "https://weibo.com/parsifalchang",
+        "isCurrentEditor": "true"
+    },
+    "aaaron7": {
+        "mark": "莲叔",
+        "weibo": "https://weibo.com/aaaron7",
+        "isCurrentEditor": "true"
+    },
+    "KyoLi": {
+        "mark": "Kyo",
+        "weibo": "https://github.com/KyoLi",
+        "isCurrentEditor": "true"
+    },
+    "anotheren": {
+        "mark": "刘栋",
+        "website": "https://anotheren.com/",
+        "isCurrentEditor": "true"
+    },
+    "waterXu": {
+        "mark": "水水",
+        "weibo": "https://www.xuyanlan.com/",
+        "isCurrentEditor": "true"
+    },
+    "looping": {
+        "mark": "Looping",
+        "weibo": "https://github.com/looping",
+        "isCurrentEditor": "true"
+    },
+    "olddonkey": {
+        "mark": "老驴",
+        "weibo": "https://weibo.com/u/6090610445",
+        "isCurrentEditor": "true"
+    },
+    "xiaofei86": {
+        "mark": "徐亚非",
+        "weibo": "https://weibo.com/xuyafei86",
+        "isCurrentEditor": "true"
+    },
     "linwenbang": {
         "mark": "邦Ben",
         "weibo": "https://weibo.com/linwenbang",
         "webisite": "linwenbang.github.io",
-        "info": "菜鸡1号"
-    },
-    "aaaron7": {
-        "mark": "莲叔"
-    },
-    "anotheren": {
-        "mark": "刘栋"
-    },
-    "Awhisper": {
-        "mark": "味精"
-    },
-    "casatwy": {
-        "mark": "Casa Taloyum"
+        "info": "菜鸡1号",
+        "isCurrentEditor": "true"
     },
     "ChinaFishNews": {
-        "mark": "含笑饮砒霜"
-    },
-    "CrazyCoderShi": {
-        "mark": "少庸"
-    },
-    "Damonvvong": {
-        "mark": "Damonvvong"
-    },
-    "EyreFree": {
-        "mark": "EyreFree"
-    },
-    "GesanTung": {
-        "mark": "老峰"
-    },
-    "iblacksun": {
-        "mark": "iblacksun"
-    },
-    "josephchang10": {
-        "mark": "张嘉夫"
-    },
-    "kemchenj": {
-        "mark": "四娘"
-    },
-    "knightsj": {
-        "mark": "J_Knight_"
-    },
-    "KyoLi": {
-        "mark": "Kyo"
-    },
-    "lacklock": {
-        "mark": "卓同学"
-    },
-    "looping": {
-        "mark": "Looping"
+        "mark": "含笑饮砒霜",
+        "weibo": "https://weibo.com/chinafishnews/",
+        "isCurrentEditor": "true"
     },
     "nianran": {
-        "mark": "红纸"
+        "mark": "红纸",
+        "weibo": "https://weibo.com/u/3211225157/",
+        "isCurrentEditor": "true"
     },
-    "tom510230": {
-        "mark": "Tom叔"
-    },
-    "waterXu": {
-        "mark": "水水"
-    },
-    "xiaofei86": {
-        "mark": "徐亚非"
-    },
-    "ztlyyznf001": {
-        "mark": "极速男孩"
+    "waz0820": {
+        "mark": "jimq",
+        "weibo": "https://weibo.com/u/3427304820/",
+        "isCurrentEditor": "true"
     },
     "zvving": {
-        "mark": "曾铭"
+        "mark": "曾铭",
+        "weibo": "https://twitter.com/zvving",
+        "isCurrentEditor": "true"
     },
-    "raozhizhen": {
-        "mark": "Aiden Rao"
+    "GesanTung": {
+        "mark": "老峰",
+        "weibo": "https://github.com/GesanTung",
+        "isCurrentEditor": "true"
+    },
+    "knightsj": {
+        "mark": "J_Knight_",
+        "weibo": "https://www.weibo.com/1929625262/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1/",
+        "isCurrentEditor": "true"
+    },
+    "CrazyCoderShi": {
+        "mark": "少庸",
+        "weibo": "https://weibo.com/3120933474/profile?topnav=1&wvr=6&is_all=1",
+        "isCurrentEditor": "true"
+    },
+    "josephchang10": {
+        "mark": "张嘉夫",
+        "weibo": "https://weibo.com/u/2949394297",
+        "isCurrentEditor": "true"
+    },
+    "ztlyyznf001": {
+        "mark": "极速男孩",
+        "website": "https://github.com/ztlyyznf001",
+        "isCurrentEditor": "true"
     }
 }
