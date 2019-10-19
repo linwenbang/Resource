@@ -9,7 +9,8 @@
     },
     "EyreFree": {
         "mark": "EyreFree",
-        "weibo": "https://weibo.com/eyrefree777"
+        "weibo": "https://weibo.com/eyrefree777",
+        "isCurrentEditor": "true"
     },
     "Awhisper": {
         "mark": "味精",
@@ -144,6 +145,11 @@
     "ztlyyznf001": {
         "mark": "极速男孩",
         "website": "https://github.com/ztlyyznf001",
+        "isCurrentEditor": "true"
+    },
+    "sanwtoo": {
+        "mark": "五子棋",
+        "website": "https://github.com/sanwtoo",
         "isCurrentEditor": "true"
     }
 }
