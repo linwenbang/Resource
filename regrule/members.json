@@ -7,11 +7,6 @@
         "mark": "mmoaay",
         "weibo": "https://weibo.com/smmoaay"
     },
-    "EyreFree": {
-        "mark": "EyreFree",
-        "weibo": "https://weibo.com/eyrefree777",
-        "isCurrentEditor": "true"
-    },
     "Awhisper": {
         "mark": "味精",
         "weibo": "https://weibo.com/agvicking"
@@ -35,6 +30,11 @@
     "iblacksun": {
         "mark": "享耳先森",
         "weibo": "https://weibo.com/iblacksun",
+        "isCurrentEditor": "true"
+    },
+    "EyreFree": {
+        "mark": "EyreFree",
+        "weibo": "https://weibo.com/eyrefree777",
         "isCurrentEditor": "true"
     },
     "kemchenj": {
