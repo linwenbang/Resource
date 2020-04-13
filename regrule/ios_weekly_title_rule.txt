@@ -1,5 +1,6 @@
 [
     "article-title.+>(.+)</h1>",
     "<title.*>(.+)</title>",
-    "msg_title = \"(.+)\""
+    "msg_title = \"(.+)\"",
+    "\"og:title" content="(.+)\"",
 ]
