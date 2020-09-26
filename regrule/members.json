@@ -1,98 +1,118 @@
 {
     "lacklock": {
         "mark": "没故事的卓同学",
-        "weibo": "https://weibo.com/u/1926303682"
+        "weibo": "https://weibo.com/u/1926303682",
+        "wechat": "卓同学"
     },
     "mmoaay": {
         "mark": "mmoaay",
-        "weibo": "https://weibo.com/smmoaay"
+        "weibo": "https://weibo.com/smmoaay",
+        "wechat": "mmoaay"
     },
     "Awhisper": {
         "mark": "味精",
-        "weibo": "https://weibo.com/agvicking"
+        "weibo": "https://weibo.com/agvicking",
+        "wechat": "唯敬"
     },
     "100mango": {
         "mark": "方秋枋",
-        "weibo": "https://weibo.com/100mango"
+        "weibo": "https://weibo.com/100mango",
+        "wechat": "芒果"
     },
     "tom510230": {
         "mark": "Tom叔",
-        "weibo": "https://xiaozhuanlan.com/u/6682065345"
+        "weibo": "https://xiaozhuanlan.com/u/6682065345",
+        "wechat": "小T"
     },
     "zangqilong198812": {
         "mark": "叶孤城",
-        "weibo": "https://weibo.com/u/1438670852"
+        "weibo": "https://weibo.com/u/1438670852",
+        "wechat": "叶孤城"
     },
     "yxztj": {
         "mark": "Jason Yu",
-        "weibo": "https://weibo.com/jasonyuh"
+        "weibo": "https://weibo.com/jasonyuh",
+        "wechat": "Jason Yu"
     },
     "iblacksun": {
         "mark": "享耳先森",
         "weibo": "https://weibo.com/iblacksun",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "享耳先森"
     },
     "EyreFree": {
         "mark": "EyreFree",
         "weibo": "https://weibo.com/eyrefree777",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "EyreFree"
     },
     "kemchenj": {
         "mark": "四娘",
         "weibo": "https://twitter.com/kemchenj",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "四娘"
     },
     "Damonvvong": {
         "mark": "Damonwong",
         "weibo": "https://weibo.com/damonone",
         "isCurrentEditor": "true",
-        "isMainEditor": "true"
+        "isMainEditor": "true",
+        "wechat": "Damonwong"
     },
     "raozhizhen": {
         "mark": "Aiden Rao",
         "weibo": "https://weibo.com/AidenRao",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "AidenRao"
     },
     "ParsifalC": {
         "mark": "ParsifalC",
         "weibo": "https://weibo.com/parsifalchang",
         "isCurrentEditor": "true",
-        "isMainEditor": "true"
+        "isMainEditor": "true",
+        "wechat": "Parsifal"
     },
     "aaaron7": {
         "mark": "莲叔",
         "weibo": "https://weibo.com/aaaron7",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "小莲"
     },
     "KyoLi": {
         "mark": "Kyo",
         "weibo": "https://github.com/KyoLi",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "Kyo"
     },
     "anotheren": {
         "mark": "刘栋",
         "website": "https://anotheren.com/",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "刘栋"
     },
     "waterXu": {
         "mark": "水水",
         "weibo": "https://www.xuyanlan.com/",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "水水"
     },
     "looping": {
         "mark": "Looping",
         "weibo": "https://github.com/looping",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "Looping"
     },
     "olddonkey": {
         "mark": "老驴",
         "weibo": "https://weibo.com/u/6090610445",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "老驴"
     },
     "xiaofei86": {
         "mark": "徐亚非",
         "weibo": "https://weibo.com/xuyafei86",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "徐亚非"
     },
     "linwenbang": {
         "mark": "邦Ben",
@@ -100,66 +120,79 @@
         "webisite": "linwenbang.github.io",
         "info": "菜鸡1号",
         "isCurrentEditor": "true",
-        "isMainEditor": "true"
+        "isMainEditor": "true",
+        "wechat": "邦Benจุ๊บ"
     },
     "ChinaFishNews": {
         "mark": "含笑饮砒霜",
         "weibo": "https://weibo.com/chinafishnews/",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "含笑饮砒霜"
     },
     "nianran": {
         "mark": "红纸",
         "weibo": "https://weibo.com/u/3211225157/",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "红纸"
     },
     "waz0820": {
         "mark": "jimq",
         "weibo": "https://weibo.com/u/3427304820/",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "晋明泉"
     },
     "zvving": {
         "mark": "曾铭",
         "weibo": "https://twitter.com/zvving",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "曾铭"
     },
     "GesanTung": {
         "mark": "老峰",
         "weibo": "https://github.com/GesanTung",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "老峰"
     },
     "knightsj": {
         "mark": "J_Knight_",
         "weibo": "https://www.weibo.com/1929625262/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1/",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "J_Knight_"
     },
     "CrazyCoderShi": {
         "mark": "少庸",
         "weibo": "https://weibo.com/3120933474/profile?topnav=1&wvr=6&is_all=1",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "少庸"
     },
     "josephchang10": {
         "mark": "张嘉夫",
         "weibo": "https://weibo.com/u/2949394297",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "Joseph "
     },
     "ztlyyznf001": {
         "mark": "极速男孩",
         "website": "https://github.com/ztlyyznf001",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "极速男孩"
     },
     "SatanWoo": {
         "mark": "五子棋",
         "website": "https://github.com/SatanWoo",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "五子棋"
     },
     "JonyFang": {
         "mark": "JonyFang",
         "website": "https://github.com/JonyFang",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "JonyFang"
     },
     "ZengyiMa": {
         "mark": "Damien",
         "website": "https://github.com/ZengyiMa",
-        "isCurrentEditor": "true"
+        "isCurrentEditor": "true",
+        "wechat": "Damien"
     }
 }
