@@ -151,5 +151,15 @@
         "mark": "五子棋",
         "website": "https://github.com/SatanWoo",
         "isCurrentEditor": "true"
+    },
+    "JonyFang": {
+        "mark": "JonyFang",
+        "website": "https://github.com/JonyFang",
+        "isCurrentEditor": "true"
+    },
+    "ZengyiMa": {
+        "mark": "Damien",
+        "website": "https://github.com/ZengyiMa",
+        "isCurrentEditor": "true"
     }
 }
